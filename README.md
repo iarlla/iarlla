@@ -66,13 +66,12 @@ Bem-vindo(a) ao meu perfil no GitHub! Sou uma entusiasta de tecnologia, apaixona
 ## Principais Repositórios
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <a href="https://github.com/iarlla/aulaPOO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iarlla&repo=aulaPOO&theme=gruvbox" alt="aulaPOO">
+  <a href="https://github.com/LuizaMunis/HealthCare/tree/iarla">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuizaMunis&repo=HealthCare&theme=gruvbox">
   </a>
-  <!-- Adicione mais repositórios aqui conforme desejar -->
-</div>
-
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+  <a href="https://github.com/iarlla/Personalise">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iarlla&repo=Personalise&theme=gruvbox">
+  </a></div>
 
 ---
 
@@ -83,12 +82,5 @@ Obrigado por visitar meu perfil! Vamos construir algo incrível juntos? 🚀
   
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/soaresiarla/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iarla-silva-828679181/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iarlla)
-
-</div>
-
-<div align="center" style="margin-top: 30px;">
-  
-![Visitor Count](https://komarev.com/ghpvc/?username=iarlla&color=orange&style=flat)
 
 </div>
