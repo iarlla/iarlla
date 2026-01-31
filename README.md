@@ -1,86 +1,59 @@
 # Olá, eu sou Iarla! 👋
+## Analista de Requisitos | Tech PO | Engenheira de Software
 
-Bem-vindo(a) ao meu perfil no GitHub! Sou uma entusiasta de tecnologia, apaixonada por programação e aprendizado contínuo. Aqui você encontrará meus projetos, ferramentas que utilizo e um pouco sobre minha jornada no mundo do desenvolvimento.
+Bem-vindo(a)! Sou uma profissional que atua na **ponte entre a Estratégia de Negócio e a Engenharia de Software**. Utilizo meu background técnico para validar viabilidade, especificar requisitos precisos e garantir a qualidade das entregas.
 
-## Sobre mim
+## 🚀 Sobre mim
 
-- 🔭 **Atualmente trabalhando em:** Projetos pessoais e estudos práticos em programação.
-- 🌱 **Estou aprendendo:** Python, JavaScript e Markdown.
-- 👯 **Quero colaborar em:** Projetos open-source e iniciativas de tecnologia.
-- 💬 **Pergunte-me sobre:** Programação, Linux ou qualquer coisa tech!
-- 📫 **Como me contatar:** [iarlaspam@gmail.com](mailto:iarlaspam@gmail.com)
-- ⚡ **Fato curioso:** Adoro explorar distribuições Linux e personalizar meu ambiente de desenvolvimento!
+- 🎯 **Foco profissional:** Engenharia de Requisitos, Análise de Negócios e Gestão de Produtos (PO).
+- 🛠 **Diferencial Técnico:** Graduada em Engenharia de Software, possuo vivência em desenvolvimento (Python/Java) e Banco de Dados, o que facilita a comunicação com times técnicos.
+- 🔭 **Experiência recente:** Atuação em Governança de TI e validação de entregas de fábricas de software na **Novacap**.
+- 📚 **Estudando:** ITIL 4, Modelagem de Processos (BPMN) e Arquitetura de Software.
 
-## Estatísticas do GitHub
+## 🗂 Projetos e Documentação
 
-![Iarlla's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iarlla&show_icons=true&theme=gruvbox)
+Aqui você encontra projetos onde atuei desde a **Concepção do Produto** até a **Validação de Qualidade**:
 
-## Principais Linguagens
+| Projeto | Papel | Tecnologias & Entregáveis |
+| :--- | :--- | :--- |
+| **[HealthCare Mobile](https://github.com/LuizaMunis/HealthCare/tree/iarla)** | **Analista de Requisitos & QA** | • Especificação de Requisitos (Funcionais/Não Funcionais)<br>• Automação de Testes (Cypress/Selenium)<br>• Arquitetura MVVM |
+| **[Personálise API](https://github.com/iarlla/Personalise)** | **Analista de Negócio & Backend** | • Modelagem de Dados (MER/SQL)<br>• Regras de Negócio para API RESTful<br>• Documentação de Rotas |
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iarlla&layout=compact&theme=gruvbox)](https://github.com/iarlla)
+## 🛠 Caixa de Ferramentas
 
----
+**Análise & Gestão:**
+<div style="display: flex; gap: 10px; margin-bottom: 20px;">
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/UML-Modelagem-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/BPMN-Processos-blue?style=for-the-badge" />
+</div>
 
-## Ferramentas e Tecnologias
-
+**Base Técnica (Tech Stack):**
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="40" alt="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" width="40" alt="Canva"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="40" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="40" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="40" alt="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="40" alt="Linux"/>
 </div>
 
 ---
 
-## Estou Aprendendo
+## 📊 GitHub Stats
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" width="40" alt="Markdown"/>
-</div>
+![Iarlla's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iarlla&show_icons=true&theme=gruvbox&hide=stars)
+*(Focado em commits de documentação e código)*
 
 ---
 
-## Tecnologias de Interesse
+## 🤝 Vamos Conectar?
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="40" alt="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="40" alt="C#"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" width="40" alt="Debian"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" width="40" alt="Ubuntu"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="40" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="40" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="40" alt="PHP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="40" alt="TypeScript"/>
-</div>
-
----
-
-## Principais Repositórios
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <a href="https://github.com/LuizaMunis/HealthCare/tree/iarla">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuizaMunis&repo=HealthCare&theme=gruvbox">
+<div align="center">
+  <a href="https://www.linkedin.com/in/iarla-silva-828679181/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://github.com/iarlla/Personalise">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iarlla&repo=Personalise&theme=gruvbox">
-  </a></div>
-
----
-
-Obrigado por visitar meu perfil! Vamos construir algo incrível juntos? 🚀
-## 🤝 Let's Connect
-
-<div align="center" style="margin-top: 20px;">
-  
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/soaresiarla/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iarla-silva-828679181/)
-
+  <a href="mailto:iarlaspam@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
 </div>
