@@ -8,7 +8,7 @@ Bem-vindo(a)! Sou uma profissional que atua na **ponte entre a Estratégia de Ne
 - 🎯 **Foco profissional:** Engenharia de Requisitos, Análise de Negócios e Gestão de Produtos (PO).
 - 🛠 **Diferencial Técnico:** Graduada em Engenharia de Software, possuo vivência em desenvolvimento (Python/Java) e Banco de Dados, o que facilita a comunicação com times técnicos.
 - 🔭 **Experiência recente:** Atuação em Governança de TI e validação de entregas de fábricas de software na **Novacap**.
-- 📚 **Estudando:** ITIL 4, Modelagem de Processos (BPMN) e Arquitetura de Software.
+- 📚 **Estudando:** CPRE-FL, Modelagem de Processos (BPMN) e Arquitetura de Software.
 
 ## 🗂 Projetos e Documentação
 
