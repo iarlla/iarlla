@@ -24,7 +24,6 @@ Aqui você encontra projetos onde atuei desde a **Concepção do Produto** até 
 **Análise & Gestão:**
 <div style="display: flex; gap: 10px; margin-bottom: 20px;">
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/UML-Modelagem-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/BPMN-Processos-blue?style=for-the-badge" />
@@ -43,6 +42,7 @@ Aqui você encontra projetos onde atuei desde a **Concepção do Produto** até 
 ## 📊 GitHub Stats
 
 ![Iarlla's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iarlla&show_icons=true&theme=gruvbox&hide=stars)
+
 *(Focado em commits de documentação e código)*
 
 ---
