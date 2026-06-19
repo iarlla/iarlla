@@ -14,10 +14,13 @@ Bem-vindo(a)! Sou uma profissional que atua na **ponte entre a Estratégia de Ne
 
 Aqui você encontra projetos onde atuei desde a **Concepção do Produto** até a **Validação de Qualidade**:
 
-| Projeto | Papel | Tecnologias & Entregáveis |
-| :--- | :--- | :--- |
-| **[HealthCare Mobile](https://github.com/LuizaMunis/HealthCare/tree/iarla)** | **Analista de Requisitos & QA** | • Especificação de Requisitos (Funcionais/Não Funcionais)<br>• Automação de Testes (Cypress/Selenium)<br>• Arquitetura MVVM |
-| **[Personálise API](https://github.com/iarlla/Personalise)** | **Analista de Negócio & Backend** | • Modelagem de Dados (MER/SQL)<br>• Regras de Negócio para API RESTful<br>• Documentação de Rotas |
+| Projeto | Papel | Tecnologias & Entregáveis | Destino |
+| :--- | :--- | :--- | :--- |
+| **[HealthCare Mobile](https://github.com/LuizaMunis/HealthCare/tree/iarla)** | **Analista de Requisitos & QA** | • Especificação de Requisitos (Funcionais/Não Funcionais)<br>• Automação de Testes (Cypress/Selenium)<br>• Arquitetura MVVM | TCC |
+| **[Personálise API](https://github.com/iarlla/Personalise)** | **Analista de Negócio & Backend** | • Modelagem de Dados (MER/SQL)<br>• Regras de Negócio para API RESTful<br>• Documentação de Rotas | Projeto Universitário |
+| [BeePlanner](https://github.com/iarlla/BeePlanner) | Desenvolvedora | Desenvolvendo... | Para estudar novas tecnologias |
+| [Finance-Assistant](https://github.com/iarlla/Finance-Assistant) | Desenvolvedora | Desenvolvendo... | Para estudar IA |
+| [HealthPulse](https://github.com/iarlla/Finance-Assistant) | Desenvolvedora | Desenvolvendo... | Para estudar API |
 
 ## 🛠 Caixa de Ferramentas
 
