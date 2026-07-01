@@ -20,7 +20,7 @@ Aqui você encontra projetos onde atuei desde a **Concepção do Produto** até 
 | **[Personálise API](https://github.com/iarlla/Personalise)** | **Analista de Negócio & Backend** | • Modelagem de Dados (MER/SQL)<br>• Regras de Negócio para API RESTful<br>• Documentação de Rotas | Projeto Universitário |
 | [BeePlanner](https://github.com/iarlla/BeePlanner) | Desenvolvedora | Desenvolvendo... | Para estudar novas tecnologias |
 | [Finance-Assistant](https://github.com/iarlla/Finance-Assistant) | Desenvolvedora | Desenvolvendo... | Para estudar IA |
-| [HealthPulse](https://github.com/iarlla/Finance-Assistant) | Desenvolvedora | Desenvolvendo... | Para estudar API |
+| [HealthPulse](https://github.com/iarlla/HealthPulse) | Desenvolvedora | Desenvolvendo... | Para estudar API |
 
 ## 🛠 Caixa de Ferramentas
 
